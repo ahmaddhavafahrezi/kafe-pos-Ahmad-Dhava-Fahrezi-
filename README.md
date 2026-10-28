@@ -13,7 +13,7 @@
    Database `kafe_pos` beserta data awal akan dibuat otomatis.
 4. Jika MySQL Anda memakai password atau port berbeda, sesuaikan `includes/config.php`
    (`DB_HOST`, `DB_NAME`, `DB_USER`, `DB_PASS`). Pengaturan bawaan XAMPP: user `root`, password kosong.
-5. Buka `http://localhost/kafe-pos/` pada browser.
+5. Buka `http://localhost/kafe-pos (Ahmad Dhava Fahrezi)/` pada browser.
 
 ## Akun Uji Coba
 
